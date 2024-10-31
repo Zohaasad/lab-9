@@ -1,0 +1,13 @@
+
+
+.First_Div{
+    width: 500 px;
+    height :500 px;
+    background-colour:black;
+    border width:3px;
+    border colour: bl
+    margin:10px;
+    padding:5px;
+
+
+}
